@@ -1,8 +1,20 @@
-# React + Vite
+# Vite.js Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Vite.js project repository! This guide will help you set up and run the project locally.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started with this project, you'll need to follow these steps:
+
+### 1. Clone the Repository
+
+First, clone the repository to your local machine:
+
+```bash
+git clone https://github.com/mnisrei/alkye-assignment-rahul.git
+cd alkye-assignment-rahul
+
+
+### Summary of Updates:
+- Added a section under **Login Instructions** specifying that the username and password are both `testadmin`.
+
