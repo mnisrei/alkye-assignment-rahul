@@ -1,0 +1,9 @@
+/* styles.css or index.css */
+.scrollbar-hidden::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+}
+
+.scrollbar-hidden {
+    -ms-overflow-style: none; /* Internet Explorer and Edge */
+    scrollbar-width: none; /* Firefox */
+}
